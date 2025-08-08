@@ -1,0 +1,9 @@
+
+export default function Home() {
+  return (
+    <div>
+      <h1>Welcome to QUANTARA</h1>
+      <p>This is your betting control center.</p>
+    </div>
+  );
+}
